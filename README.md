@@ -8,8 +8,6 @@ This document is just a quick rundown of who I am as a manager and engineer and 
 
 As an Engineering Manager, I recognize that my role is multifaceted and can vary depending on the current [stage of development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) for my team. However, some core responsibilities consistently stand out.
 
-I understand my role as an Engineering Manager as one that is multifaceted and that adapts depending on the [development stage] that the team finds itself in. However, at the core of it, a few responsibilities stand out.
-
 ### Supporting the individuals
 As an Engineering Manager, my role is primarily supportive in nature. I understand that any positive impact I have on the individuals in my team will ultimately impact the organization as a whole. With this in mind, my primary focus is always to make things easier for the engineers on my team. To achieve this, I prioritize the following:
 
